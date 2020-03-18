@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Data Scientist
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Data enthusiast who likes detecting patterns.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[varun.janardhan26@gmail.com](mailto:varun.janardhan26@gmail.com)
